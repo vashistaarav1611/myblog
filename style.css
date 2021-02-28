@@ -1,0 +1,29 @@
+.main{
+	list-style: none;
+	font-family: cursive;
+	float: right;
+	top: 10px;
+	right: 30px;
+	cursor: pointer;
+	color: black;
+}
+.se1{
+	background-color: aquamarine;
+	text-align: center;
+}
+#bold{
+	font-family: cursive;
+}
+.hi:hover{
+	background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+}
+.se2{
+	text-align: center;
+	background-color: pink;
+	color: purple;
+}
+#div{
+	background-color: black;
+	text-align: center;
+	color: black;
+}
